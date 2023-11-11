@@ -5,3 +5,5 @@
 !!
 The maze1, maze2, and maze3 text files are essential for my code to work. The path of these three files should be the same as the path of the cpp file
 !!
+
+Use the keys w, a, s, and d to manipulate the player.
